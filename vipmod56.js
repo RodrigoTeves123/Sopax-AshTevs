@@ -1,4 +1,4 @@
-serverBaseUrl=https://ashtevs.x10.mx/lib/
+serverBaseUrl=https://ashtevs.x10.mx/Farlight/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
